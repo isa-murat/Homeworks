@@ -4,19 +4,19 @@
 4. Eğer not_100 >= 90 ise
 	5. not_5 = 5
 	6. Ekrana yaz, not_5
-	7. Git, 15
+	7. Git, 23
 8. Aksi halde, Eğer not_100 >= 80 ise
 	9. not_5 = 4
 	10. Ekrana yaz, not_5
-	11. Git, 15
+	11. Git, 23
 12. Aksi halde, Eğer not_100 >= 70 ise
 	13. not_5 = 3
 	14. Ekrana yaz, not_5
-	15. Git, 15
+	15. Git, 23
 16. Aksi halde, Eğer not_100 >= 60 ise
 	17. not_5 = 2
 	18. Ekrana yaz, not_5
-	19. Git, 15
+	19. Git, 23
 20. Aksi halde
 21. not_5 = 1
 22. Ekrana yaz, not_5
